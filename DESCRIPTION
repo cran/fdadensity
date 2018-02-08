@@ -4,8 +4,8 @@ BugReports: https://github.com/functionaldata/tDENS/issues
 Type: Package
 Title: Functional Data Analysis for Density Functions by Transformation
         to a Hilbert Space
-Version: 0.1.0
-Date: 2017-10-16
+Version: 0.1.1
+Date: 2018-02-02
 Author: A. Petersen, P. Z. Hadjipantelis and H.G. Mueller
 Maintainer: Alexander Petersen <petersen@pstat.ucsb.edu>
 Description: An implementation of the methodology described in
@@ -19,7 +19,7 @@ Description: An implementation of the methodology described in
     data is adapted to the transformation setting, also allowing for an
     alternative quantification of variability for density data through the
     Wasserstein metric of optimal transport.
-Depends: R (>= 3.3.1)
+Depends: R (>= 3.3.0)
 License: BSD_3_clause + file LICENSE
 LazyData: false
 Imports: Rcpp (>= 0.11.5), fdapace (>= 0.3.0)
@@ -27,6 +27,6 @@ LinkingTo: Rcpp
 NeedsCompilation: yes
 Suggests: testthat
 RoxygenNote: 6.0.1
-Packaged: 2017-10-16 17:26:41 UTC; alexanderpetersen
+Packaged: 2018-02-08 21:34:26 UTC; alexanderpetersen
 Repository: CRAN
-Date/Publication: 2017-10-16 18:13:00 UTC
+Date/Publication: 2018-02-08 21:48:58 UTC
